@@ -1,0 +1,3 @@
+POST http://p2p-charge.ms.qa/api/v1/transactions
+consumer_id: 123
+@data/user.json

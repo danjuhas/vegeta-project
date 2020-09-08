@@ -1,0 +1,9 @@
+{
+    "main_message": "Teste QA 1",
+    "consumers_payers": [
+      {
+        "consumer_payer_id": "1",
+        "value": 0.5
+      }
+    ]
+}
